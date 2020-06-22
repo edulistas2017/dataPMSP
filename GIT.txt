@@ -1,0 +1,67 @@
+https://git-scm.com/download/win
+https://guides.github.com/activities/hello-world/
+
+DADOS
+https://bit.ly/3hYSkLM - IMDB CSV
+https://bit.ly/2CqEaCF - TITANIC CSV
+https://bit.ly/3fLMN9c - DRINKS
+https://bit.ly/2BsugzY - PMSP ( 052020 )
+
+minha pasta está no ONEDRIVE - C:\Users\earau\OneDrive\PYTHON.EDU
+MEUS DADOS no GIT edulistas2017 MD***20@
+
+
+Below are the commands we are going to use to upload files to GitHub with Git Bash
+
+ls
+cd
+git init
+git remote add origin https://github.com/edulistas2017/dataPMSP
+git remote -v
+git add .
+git commit -m comment commit"
+git push origin master
+
+ls- List all the files in the current directory
+
+If your source code is in the different directory, you need to change the directory on git bash with command cd followed by directory or path.
+
+cd - To change the directory
+
+git init- This command initializes the git in the given path. You can see the .git hidden files after this command gets executed.
+
+git remote add origin [gitLink]- gitLink denote the place where your code is stored in the remote repository
+
+git add .- Add all the files in the local directory to the remote repository
+
+git commit -m "First commit"- It establishes a connection with local repository
+
+git push origin master- It establishes a connection with a remote repository and upload your source code or files to GitHub
+
+Note: If you get fatal: remote origin already exists which means the connection is already established.
+
+Above method helps to push files or project folder to GitHub using the command line.
+
+********** Tutorial Playlists **********
+Google apps script tutorial for beginners- https://goo.gl/wqHwqx
+Automate internet explorer with VBA- https://goo.gl/Xmy8Af
+Autoit tutorials for beginners- https://goo.gl/JHB1E2
+Selenium Webdriver tutorials for beginners -https://goo.gl/QqxTrF
+
+****** Contact me ********
+Blog: www.amarindaz.com
+FB page: http://www.facebook.com/amarindaz
+
+******* Books written by me ********
+Autoit tutorials for beginners: http://amzn.to/2GjaDbD
+Excel VBA for beginners: http://amzn.to/2nhI067
+
+******* Productivity tool *********
+My Favorite YouTube Tools  ➜ https://goo.gl/MX9Z4p and ➜https://goo.gl/UW1uRX
+
+******* Gear Used To Shoot This Video ******
+_Audio & Microphone
+http://amzn.to/2GibdGu
+
+********Learning partner********
+Video courses ➜https://click.linksynergy.com/fs-bin/...
